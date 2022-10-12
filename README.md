@@ -12,5 +12,6 @@ npx hardhat node
 npx hardhat compile
 npx hardhat run scripts/deploy_greeting.js --network mumbai
 ```
-To run the test script
+To run the sample greet script
+
 `npx hardhat run scripts/deploy_greeting.js --network mumbai`
